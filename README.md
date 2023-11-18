@@ -47,8 +47,7 @@
 
 ## Output:
 
-![image](https://github.com/Anandanaruvi/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120443233/403ab031-d97f-4488-af3b-0acd19b77693)
-
+![image](https://github.com/Anandanaruvi/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120443233/7f0611dd-d552-4137-96bd-f4e01b59234b)
 
 
 ### Name:A.ARUVI.
